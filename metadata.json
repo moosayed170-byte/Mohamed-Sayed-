@@ -1,0 +1,6 @@
+{
+  "name": "AI Agents Marketplace & Commercial Launch Hub",
+  "description": "Executive operations center for AI agent monetization, model routing, B2B tenant management, unit economics, and launch readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
